@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.cnabs.mylib.spring.boot.autoconfigure.MylibAutoConfigure
